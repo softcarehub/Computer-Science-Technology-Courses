@@ -1,5 +1,5 @@
 # Computer-Science-Technology-Courses
-- [Computer Basic Course]([https://docs.google.com/document/d/1gFdJiLabOtUQqJjwz6haANwM-VizwpsfxSJSmnEZURE/edit](https://docs.google.com/document/d/1MOIy6VvOEktC_31DAIJdIJijNc-QDsXmtZ-YLDRzXyM/edit?usp=sharing))
+- [Computer Basic Course](https://docs.google.com/document/d/1MOIy6VvOEktC_31DAIJdIJijNc-QDsXmtZ-YLDRzXyM/edit?usp=sharing)
 - [Mathematics-2](https://docs.google.com/document/d/1vubtp8QDlPK2FsJJTBRr-i8Dhux_mFDTuwjF7zwv6EM/edit?usp=sharing)
 - [Mathematics-3](https://docs.google.com/document/d/1Cuo2e7xSZdncIm1JXtygFAO4AnYc8RrCajv9rgZODJU/edit?tab=t.0)
 - [Data Communication](https://docs.google.com/document/d/1pPD7ecmx2PlH9318V0h16KJwMOVQ9TMQ7A3uE9Gun6g/edit?usp=drive_link)
