@@ -1,4 +1,7 @@
 # Computer-Science-Technology-Courses
+- [Programming in C](https://docs.google.com/document/d/1vAzZflTY9IQRSINwBEQG9klQaKHCfKOKabuQd9aLo1c/edit?usp=sharing)
+- [Database Management System](https://docs.google.com/document/d/1inWQaiYIZQof6JikdIyn9PLkQ-qXBx5ziI80mOCWIXU/edit?usp=sharing)
+- [Computer Networking](https://docs.google.com/document/d/10m5royKL2drB_yMyC0J1g1-q1L6cibaHukketJBk2UI/edit?usp=sharing)
 - [Computer Basic Course](https://docs.google.com/document/d/1MOIy6VvOEktC_31DAIJdIJijNc-QDsXmtZ-YLDRzXyM/edit?usp=sharing)
 - [Mathematics-2](https://docs.google.com/document/d/1vubtp8QDlPK2FsJJTBRr-i8Dhux_mFDTuwjF7zwv6EM/edit?usp=sharing)
 - [Mathematics-3](https://docs.google.com/document/d/1Cuo2e7xSZdncIm1JXtygFAO4AnYc8RrCajv9rgZODJU/edit?tab=t.0)
