@@ -16,4 +16,5 @@
 - [Computer Office Application](https://docs.google.com/document/d/1Xvi8DnpiKX9ko5vVqbcrTOfI7lws9SEdc-aLxJyF4OU/edit?usp=sharing) 
 - [Web Development 1 & 2](https://docs.google.com/document/d/1CRldX7D3pV0fCLAV_oufEQLRxs7jYedqmMM97kkQ3ac/edit?usp=sharing)
 - [Computer Architecture & Microprocessor](https://docs.google.com/document/d/1gFdJiLabOtUQqJjwz6haANwM-VizwpsfxSJSmnEZURE/edit?usp=sharing)
+- [Project Work & App Development Project](https://docs.google.com/document/d/1mYid0DoNDwSbX-5y3C2ZZl6hEqmyGU2TgL9hGBsRlhs/edit?usp=sharing)
 
