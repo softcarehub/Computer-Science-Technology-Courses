@@ -18,4 +18,5 @@
 - [Computer Architecture & Microprocessor](https://docs.google.com/document/d/1gFdJiLabOtUQqJjwz6haANwM-VizwpsfxSJSmnEZURE/edit?usp=sharing)
 - [Project Work & App Development Project](https://docs.google.com/document/d/1mYid0DoNDwSbX-5y3C2ZZl6hEqmyGU2TgL9hGBsRlhs/edit?usp=sharing)
 - [Basic Application Development using Python](https://docs.google.com/document/d/1cRanfUK-xYzsG-OjLpiPFJR5U1MH3WN6VRy-C--2HBQ/edit?usp=sharing)
+- [Web Design & Development-II](https://drive.google.com/drive/folders/1SeMrnUufoEWUDgO-AMGEOjgVibbMJC6x?usp=sharing)
 
