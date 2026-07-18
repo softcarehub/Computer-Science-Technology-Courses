@@ -21,4 +21,5 @@
 - [Basic Application Development using Python](https://docs.google.com/document/d/1cRanfUK-xYzsG-OjLpiPFJR5U1MH3WN6VRy-C--2HBQ/edit?usp=sharing)
 - [Web Design & Development-II](https://drive.google.com/drive/folders/1SeMrnUufoEWUDgO-AMGEOjgVibbMJC6x?usp=sharing)
 - [Basic Electronics](https://docs.google.com/document/d/1qCi6hjI2xQXWtlZS6SUfajJNKmI4sZF15m5FH53zuc8/edit?usp=sharing)
+- [Basic Electricity](https://docs.google.com/document/d/1Xe_tiyrrPuTmzzlYWCh7aZDf6hNOkd6axl5fiAmYJcY/edit?usp=sharing)
 
